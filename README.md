@@ -13,3 +13,5 @@
 **Record**
 
 Serve para criar um tipo de objeto onde se faz necessário passar todas as chaves com os tipos declarados.
+
+**Pick e Omit**

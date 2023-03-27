@@ -19,3 +19,5 @@
 - Extract: Recebe dois "argumentos" tipo e união.
 
 - NonNullable: Rebece um ou mais tipos, ele remove qualquer tipo que retorne um valor nulo ou indefinido
+
+- ReturnType: Constroi um tipo baseado no tipo de retorno de uma função.

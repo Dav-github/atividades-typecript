@@ -15,3 +15,6 @@
 Serve para criar um tipo de objeto onde se faz necessário passar todas as chaves com os tipos declarados.
 
 **Pick e Omit**
+
+- Pick: escolhe qual parametro é obrigatório passar de um determinado tipo.
+- Omit: escolhe qual parametro não se deve passar de um determinado tipo.

@@ -18,3 +18,8 @@ Serve para criar um tipo de objeto onde se faz necessário passar todas as chave
 
 - Pick: escolhe qual parametro é obrigatório passar de um determinado tipo.
 - Omit: escolhe qual parametro não se deve passar de um determinado tipo.
+
+**Exclude e Extract**
+
+- Exclude: Recebe dois "argumentos" união de tipos e membros excluidos.
+- Extract: Recebe dois "argumentos" tipo e união.
